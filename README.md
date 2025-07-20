@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 Projects: Add mean, variance, std 
+
+- [Mean-Variance-Standard Deviation Calculator](https://gist.github.com/KDiall/a63f4ce97d4c50e375e2d02fc808b619)  
+  A Python project that calculates the mean, variance, and standard deviation of a 3x3 dataset using NumPy. Completed as part of the freeCodeCamp Data Analysis with Python course.
+
