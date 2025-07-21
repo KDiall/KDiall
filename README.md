@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 
 -## 💻 Project-2
+Demographic Data Analyzer using Python and Pandas
 
 - ✅ [Demographic Data Analyzer](https://gist.github.com/KDiall/028f0fccd8922a876ce84b1b093601a8)
 
