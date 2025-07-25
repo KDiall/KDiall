@@ -1,19 +1,10 @@
 ## Hi there 👋
 
-<!--
+
 **KDiall/KDiall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 📊 FreeCodeCamp Projects
 
 - [Mean-Variance-Standard Deviation Calculator](https://gist.github.com/KDiall/a63f4ce97d4c50e375e2d02fc808b619)  
@@ -24,5 +15,14 @@ Here are some ideas to get you started:
 Demographic Data Analyzer using Python and Pandas
 
 - ✅ [Demographic Data Analyzer](https://gist.github.com/KDiall/028f0fccd8922a876ce84b1b093601a8)
+
+## Project-3
+
+Medical Data Visualizer using Matplotlib, Seaborn, and Pandas
+
+[View Gist](https://gist.github.com/KDiall/5757a1d6eb177415513b0acfe0818dc7)
+
+
+
 
 
