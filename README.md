@@ -1,28 +1,19 @@
-## Hi there 👋
-
-
-**KDiall/KDiall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## 📊 FreeCodeCamp Projects
 
-- [Mean-Variance-Standard Deviation Calculator](https://gist.github.com/KDiall/a63f4ce97d4c50e375e2d02fc808b619)  
-  A Python project that calculates the mean, variance, and standard deviation of a 3x3 dataset using NumPy. Completed as part of the freeCodeCamp Data Analysis with Python course.
+[Mean‑Variance‑Standard Deviation Calculator](https://gist.github.com/KDiall/a63f4ce97d4c50e375e2d02fc808b619)
 
+A Python project that calculates the mean, variance, and standard deviation…
 
--## 💻 Project-2
-Demographic Data Analyzer using Python and Pandas
+[Demographic Data Analyzer](https://gist.github.com/KDiall/028f0fccd8922a876ce84b1b093601a8)
 
-- ✅ [Demographic Data Analyzer](https://gist.github.com/KDiall/028f0fccd8922a876ce84b1b093601a8)
-
-## Project-3
-
-Medical Data Visualizer using Matplotlib, Seaborn, and Pandas
+Medical Data Visualizer using Matplotlib, Seaborn, and Pandas:
 
 [View Gist](https://gist.github.com/KDiall/5757a1d6eb177415513b0acfe0818dc7)
 
+Visualization module using Pandas, Matplotlib & Seaborn…
 
+[Forum Pageviews Visualizer Gist](https://gist.github.com/KDiall/01d1079b01923bd8042d26e78f321c87)
 
+Sea Level Predictor: Linear Regression in Python:
 
-
+[Sea Level Predictor Gist](https://gist.github.com/KDiall/5bea1905e849567f1142ba5e2abee4b7)
